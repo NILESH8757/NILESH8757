@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on to hone my web-dev skills
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on reactJs, NodeJs, Python, and competitive programming.
-- 💬 Ask me about anything about competitive programming and I'll be more than happy to help you. But <strong> Strict NO </strong> to discussion on live coding problems.
+- 💬 Ask me anything about competitive programming and I'll be more than happy to help you. But <strong> Strict NO </strong> to discussion on live coding problems.
 - 📫 How to reach me: drop a mail to nilesh8757@gmail.com
-- ⚡ Fun fact: Currently, there are over 700 different programming languages!
+- ⚡ A random fun fact: Currently, there are over 700 different programming languages!
 
