@@ -5,3 +5,7 @@
 
 ![dp](/IMG_2085.JPG)
 ### Hi there 🙋‍♂️
+
+My name is Nilesh, I am a web developer currently working as a freelancer in the same domain. I am passionate about photography, fictional literature and programming competitions. In my spare time you will probably find me reading a book or participating in a coding contest.
+
+PS. - I also like Maths. :smile:
