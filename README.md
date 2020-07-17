@@ -2,7 +2,7 @@
 <!--
 **NILESH8757/NILESH8757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<div syle="border-radius: 50%;">
+<div border-radius = 50%>
 ![dp](https://github.com/NILESH8757/NILESH8757/blob/master/IMG_2085.JPG)
 </div>
 ### Hi there 🙋‍♂️
