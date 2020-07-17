@@ -2,7 +2,7 @@
 <!--
 **NILESH8757/NILESH8757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a href="https://ibb.co/cLMd5Gm"><img src="https://i.ibb.co/9tzjXFM/IMG-2085.jpg" alt="IMG-2085" style="border-radius:50%"></a>
+<a href="https://ibb.co/cLMd5Gm"><img src="https://i.ibb.co/9tzjXFM/IMG-2085.jpg" alt="IMG-2085" border-radius="50%"></a>
 ### Hi there 🙋‍♂️
 
 My name is Nilesh, I am a web developer currently working as a freelancer in the same domain. I am passionate about photography, fictional literature and programming competitions. In my spare time you will probably find me reading a book or participating in a coding contest. I also like Maths. :smile: <br>
