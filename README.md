@@ -3,9 +3,9 @@
 **NILESH8757/NILESH8757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![dp](https://github.com/NILESH8757/NILESH8757/blob/master/IMG_2085.JPG#bordered)
+![dp](https://github.com/NILESH8757/NILESH8757/blob/master/IMG_2085.JPG){border = 1px solid black}
 img[src~="bordered"] {
-   border: 1px solid black;
+   border: 1px solid black
 }
 
 ### Hi there 🙋‍♂️
