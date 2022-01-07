@@ -7,7 +7,7 @@
 
 I'm Nilesh, a software engineer and competitive programmer. I am passionate about photography, fictional literature and programming competitions. In my spare time you will probably find me reading a book or participating in a coding contest. I also like Maths. :smile: <br>
 
-<p align="center">Some of my coding profiles on various platforms :</p>
+<p align="center">My coding profiles on various platforms :</p>
 <p align="center">
   <a href="https://www.codechef.com/users/nilesh8757" target = "_blank"><img src="https://img.shields.io/badge/Codechef--_.svg?style=social&logo=codechef" alt="Codechef"></a>
   <a href="https://www.hackerrank.com/nilesh8757" target = "_blank"><img src="https://img.shields.io/badge/Hackerrank--_.svg?style=social&logo=hackerrank" alt="HackerRank"></a>
