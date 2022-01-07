@@ -5,7 +5,7 @@
 <!--  <kbd> <img src="https://github.com/NILESH8757/NILESH8757/blob/master/IMG_2085.JPG" /> </kbd> -->
 ### Hi there 🙋‍♂️
 
-My name is Nilesh, I am a software engineer and competitive programmer. I am passionate about photography, fictional literature and programming competitions. In my spare time you will probably find me reading a book or participating in a coding contest. I also like Maths. :smile: <br>
+I'm Nilesh, a software engineer and competitive programmer. I am passionate about photography, fictional literature and programming competitions. In my spare time you will probably find me reading a book or participating in a coding contest. I also like Maths. :smile: <br>
 
 <p align="center">Some of my coding profiles on various platforms :</p>
 <p align="center">
